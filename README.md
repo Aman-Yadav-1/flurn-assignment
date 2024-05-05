@@ -17,5 +17,3 @@
    
 5. [search.jpeg](https://github.com/Aman-Yadav-1/pokedex/blob/main/ScreenShot/search.jpeg)
    ![search.jpeg](https://github.com/Aman-Yadav-1/pokedex/raw/main/ScreenShot/search.jpeg)
-
-Feel free to use these images for reference or any other purposes related to the Pokedex project.
