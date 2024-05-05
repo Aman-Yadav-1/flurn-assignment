@@ -1,6 +1,6 @@
 # Pokedex Application
 
-<a href="pokedex-aman.vercel.app">APP<a>
+[APP](https://pokedex-aman.vercel.app/)
 
 ## Screenshots:
 
